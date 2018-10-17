@@ -1,0 +1,182 @@
+.list-group-item {
+    z-index: 2;
+    color: black !important;
+    background-color: #fff !important;
+      background-clip: border-box !important;
+      border: 1px solid rgba(0,0,0,.125) !important;
+      border-radius: .25rem !important;
+      margin-bottom: 2vh !important;
+      text-align: center !important;
+      box-shadow: 0 19px 38px rgba(0, 0, 0, 0.30), 0 15px 12px rgba(0, 0, 0, 0.22);
+      margin-right: 25px;
+      margin-left: 25px;
+      
+  }
+  .mt-5, .my-5 {
+    margin-top: 3rem !important;
+}
+
+.list-group {
+  flex-direction: row !important;
+  padding-left: 0;
+  margin-bottom: 0;
+  max-width: 100%;
+}
+dl, ol, ul {
+  margin-top: 0;
+  margin-bottom: 1rem;
+}
+*, ::after, ::before {
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+.list-group-item.active {
+  z-index: 2;
+  color: black !important;
+  background-color: #fff !important;
+    background-clip: border-box !important;
+    border: 1px solid rgba(0,0,0,.125) !important;
+    border-radius: .25rem !important;
+    margin-bottom: 2vh !important;
+    text-align: center !important;
+    box-shadow: 0 19px 38px rgba(0, 0, 0, 0.30), 0 15px 12px rgba(0, 0, 0, 0.22);
+    max-width: 30vw !important;
+    margin-left: 0 !important;
+    margin-top: 50px;
+}
+
+.Delete{
+  color:red !important;
+}
+.Profile{
+      
+  margin-top: 10vh !important;
+  margin-bottom: 25vh !important;
+  background: radial-gradient(ellipse at center, #a90329 0%,#8f0222 44%,#6d0019 100%); 
+  box-shadow: 0 19px 38px rgba(0, 0, 0, 0.30), 0 15px 12px rgba(0, 0, 0, 0.22);
+  margin-left: 20px;
+  margin-right: 20px;
+  padding: 15px;
+  
+}
+      .form-unregister{
+          margin-top: 55px;
+          background: rgba(255, 255, 255, 0.7)
+      }
+                      input{
+                          margin-left: 0 !important
+                      }
+ .btn{
+  display: flex;
+ }
+ 
+
+ .profile-container {
+   width: 100%;
+ }
+ .profile-card{
+  color:white; 
+  background-color: rgba(3, 3, 3, 0.9);
+  padding: 10px;
+  text-align: center;
+  font-size: 5vh;
+  border: 3px solid white;
+  padding-bottom: 3%;
+  width: 70%;
+  height: 70%;
+  margin-top: -100px;
+  margin-left: 15vw;
+  justify-content: center;
+  
+
+ }
+
+ .Update{
+  margin-right: 270px;
+ }
+
+ .reviews{
+   margin-top: 50px;
+   margin-left: 50px;
+ }
+
+  .favorites{
+  display: flex;
+  max-width: 100% !important;
+}
+ .card-img-top {
+    width: 100%;
+    border-top-left-radius: calc(.25rem - 1px);
+    border-top-right-radius: calc(.25rem - 1px);
+    height: auto;
+}
+
+.favorite-body {
+   height: 60vh;
+   margin-bottom: 20px;
+}
+
+.container-fluid{
+  
+  padding: 10px;
+  text-align: center;
+  
+}
+
+.Unregister-form{
+  margin:auto;
+  margin-bottom: 25px;
+  background-color: #FEF9E7;
+}
+.Update-form{
+  margin:auto;
+  margin-bottom: 25px;
+  background-color: #FEF9E7;
+ 
+}
+
+.rounded-circle{
+    width: 10vw;
+    height: 10vw;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    border: 1px solid black;
+  }
+  
+.profile-card_cardbody{
+  
+  background-color:#fef9e7;
+  padding-bottom: 15px;
+  border-radius: 25px;
+
+
+}
+
+.buttons{
+  margin-bottom: 15px;
+}
+
+span{
+  color: red;
+}
+
+.card-title{
+  margin-top: 12px;
+}
+
+.heart{
+  height: 8vh;
+}
+.star{
+  height: 10vh;
+}
+.heart-favorites{
+  font-size: 5vh;
+  padding: 2vw;
+}
+
+.star-reviews{
+  font-size: 5vh;
+  padding: 2vw;
+  
+}

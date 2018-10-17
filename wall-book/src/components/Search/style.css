@@ -1,0 +1,132 @@
+
+.section {
+  margin-top: 10vh !important;
+  margin-bottom: 25vh !important;
+  background: radial-gradient(ellipse at center, #a90329 0%,#8f0222 44%,#6d0019 100%);
+  box-shadow: 0 19px 38px rgba(0, 0, 0, 0.30), 0 15px 12px rgba(0, 0, 0, 0.22);
+  margin-left: 20px;
+  margin-right: 20px;
+    
+}
+
+
+
+.navbar {
+  position: relative;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  -ms-flex-align: center;
+  align-items: center;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  padding: .5rem 1rem;
+  margin-top: 2vh;
+ 
+}
+.books-card{
+  margin-right: 30px !important;
+}
+
+
+
+.navbar-nav .nav-link {
+  float: right;
+  color: white !important;
+}
+
+.navbar-brand {
+  display: inline-block;
+  padding-top: .3125rem;
+  padding-bottom: .3125rem;
+  margin-right: 1rem;
+  font-size: 1.25rem;
+  line-height: inherit;
+  white-space: nowrap;
+  color: white !important;
+}
+
+
+.card {
+  box-shadow: 0 19px 38px rgba(0, 0, 0, 0.30), 0 15px 12px rgba(0, 0, 0, 0.22);
+  margin-bottom: 15vh;
+  margin-top: 15vh;
+  margin-left: 50px;
+ 
+}
+
+.col{
+  padding: 0;
+  
+}
+.card_cardbody{
+ max-height: 50vh;
+  
+}
+
+.btn-primary {
+  color: #fff;
+  
+  margin-right: 15px;
+}
+
+#Author{
+  
+  margin-left: 70px;
+  margin-right: 15px;
+  
+}
+
+.custom-classname.react-toggle--checked .react-toggle-track {
+  background-color: #ab199f;
+}
+
+.container-search {
+  margin-top: 50px;
+  margin-bottom: 50px;
+  margin-left: 20vw;
+  
+}
+
+#searchInput {
+  margin-left: 30%;
+  margin-top: 20px;
+  width: 300px;
+  box-shadow: 0 19px 38px rgba(0, 0, 0, 0.30), 0 15px 12px rgba(0, 0, 0, 0.22);
+}
+
+#searchButton {
+  background-color: #5fb854;
+  margin-left: 10px !important;
+  width: 25%;
+  margin-top: 20px;
+  box-shadow: 0 19px 38px rgba(0, 0, 0, 0.30), 0 15px 12px rgba(0, 0, 0, 0.22);
+}
+
+
+
+.btn-warning {
+  color: #212529;
+  background-color: #ffc107;
+  border-color: #ffc107;
+  margin-left: 10px;
+  margin-right: 10px;
+  box-shadow: 0 19px 38px rgba(0, 0, 0, 0.30), 0 15px 12px rgba(0, 0, 0, 0.22) !important;
+  
+}
+
+.buttons{
+  margin-left: -10px;
+  
+}
+
+.btn-success {
+  box-shadow: 0 19px 38px rgba(0, 0, 0, 0.30), 0 15px 12px rgba(0, 0, 0, 0.22) !important;
+
+}
+
+.subtitle {
+   margin-bottom: 8px !important;
+   margin-top: 8px !important;
+}
